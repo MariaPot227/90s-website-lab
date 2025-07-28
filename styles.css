@@ -1,0 +1,27 @@
+h1 {
+  color: red;
+  text-align: center;
+}
+
+.front {
+  color: green;
+  text-align: center;
+}
+
+.center-img {
+  text-align: center;
+}
+
+.about-page {
+  
+  text-align: center;
+}
+
+.about-page a { 
+  color: white;     
+  text-decoration: none; 
+}
+
+.tabs {
+  color: red;
+}
